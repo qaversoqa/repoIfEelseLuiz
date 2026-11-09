@@ -1,5 +1,12 @@
 
 package exercicioIfEElse;
+// LUIZ LUIZ LUIZ LUIZ LUIZ LUIZ LUIZ LUIZ LUIZ LUIZ LUIZ LUIZ 
+
+
+
+
+
+
 
 import java.util.Locale; // Traz a ferramenta que define o formato dos numeros, como escolher o formato das etiquetas.
 import java.util.Scanner; // Traz a ferramenta para ler o teclado, como um atendente recebendo respostas.
